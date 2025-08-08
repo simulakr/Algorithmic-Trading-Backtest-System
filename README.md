@@ -1,10 +1,10 @@
 # Trade Results
 
-## BTC BB Equity Curve
+## ETH BB Equity Curve
 
-![BTC BB Equity Curve](equity_curves/BTC%20BB.PNG)
+![BTC BB Equity Curve](equity_curves/ETH%20BB.PNG)
 
-## BTC DC Equity Curve
+## ETH DC Equity Curve
 
-![BTC DC Equity Curve](equity_curves/BTC%20DC.PNG)
+![BTC DC Equity Curve](equity_curves/ETH%20DC.PNG)
 
